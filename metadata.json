@@ -1,0 +1,6 @@
+{
+  "name": "Strike Ops 3D",
+  "description": "Tactical 3D first-person shooter with realistic weapon mechanics, AI enemies, mission levels, and arsenal upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
